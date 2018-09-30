@@ -1,4 +1,4 @@
-##Simple Hello World Pure node API
+Simple Hello World Pure node API
 
 1. RESTful JSON API that listens on a port of your choice.
 
